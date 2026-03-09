@@ -1,0 +1,881 @@
+
+az1mut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+POLICY ESG
+LUGLIO 2023
+
+
+
+
+SOMMARIO
+1. INTRODUZIONE	4
+2. QUADRO NORMATIVO DI RIFERIMENT0	5
+3. DEFINIZIONl	6
+4. RUOLI E RESPONSABILITA	10
+4.1. Ruolo delle funzioni di controllo	14
+5. PRINCIPI GENERALI	14
+6. L'INTEGRAZIONE DEL RISCHIO DI SOSTENIBILITA' NEL PROCESSO DI INVESTIMENTO	16
+6.1 Lista di esclusione	17
+6.2 Metodologie di considerazione dei Principali Effetti Negativi (PAI)	19
+6.2.1 Definizione dei PAl	19
+6.2.2 Lista dei PAI	20
+6.2.3 Lista dei PAI prioritizzati per singolo prodotto	21
+6.2.4 Considerazione dei PAl	21
+6.3 Azionariato attivo	23
+6.4 ldentificazione e valutazione del rischio di sostenibilita	24
+7. I PRODOTTI FINANZIARI EX ART.8 SFDR	25
+7.l lntroduzione	25
+7.2 Strategie per la promozione delle caratteristiche ambientali e/o sociali.	26
+7.3 Criteri di determinazione di investimento sostenibile ex Art. 2(17) SFDR	27
+7.4 Elementi vincolanti	31
+7.5 Tempistiche di rientro in caso di sforamenti attivi e passivi.	32
+8. AZIONARIATO ATTIVO	33
+8.l lntroduzione	33
+8.2 Mitigazione dei principali effetti negativi sulla sostenibilita (PAl)	33
+9. FONDI ALTERNATIVI CHIUSI	34
+10. VIGILANZA SUI GESTORI DELEGATI AGLI INVESTIMENTI	34
+10.1 Dovuta diligenza	35
+10.2 Monitoraggio	35
+ll.TRASPARENZA	36
+ALLEGATO 1- Strategie di integrazione dei fattori di sostenibilita.	3 7
+ALLEGATO 2- Metodologia per l'integrazione dei fattori di sostenibilita net processo di investimento	38
+
+
+
+
+1. INTRODUZIONE
+
+Nell'ambito del gruppo Azimut (di seguito "Gruppo"}, ii "rischio di sostenibilita" (di seguito per semplicita anche "rischio ESG") e inteso come un evento o una condizione attinente a fattori di tipo ambientale, sociale o di governance (in seguito "ESG"} che, se si verificasse, potrebbe
+provocare un impatto negativo significativo sul valore o potenziale valore degli investimenti, nella relazione con la clientela e sulla reputazione del Gruppo o di una delle societa appartenenti al Gruppo stesso.
+In via esemplificativa, possono ricomprendersi tra i rischi ESG i rischi legati al cambiamento climatico, alla perdita di biodiversita, alla violazione dei diritti dei lavoratori ed alla corruzione.
+
+A tal riguardo Azimut Capital Management SGR S.p.A. (di seguito anche "Societa" o "SGR"} considera di fondamentale importanza l'integrazione dei fattori ambientali, sociali e di governance (ESG} nel proprio processo di investimento e nella erogazione del servizio di Consulenza, nella convinzione che questi elementi, oltre a favorire uno sviluppo economico e sociale sostenibile, possano contribuire positivamente ai risultati finanziari dei portafogli dei clienti riducendone, al contempo, i rischi. Si ritiene che gli investimenti orientati su emittenti impegnati ad integrare i criteri ESG all'interno della propria strategia possano generare profitti sostenibili nel tempo e, conseguentemente, originare una solida prospettiva di creazione di valore per tutti gli stakeholder. Questa permette, altresl, una piu efficiente gestione dei rischi, oltre che ambientali e sociali, anche reputazionali.
+
+La Societa prevede alla misurazione e alla valutazione del rischio di sostenibilita nelle scelte attinenti i processi di investimento e nella definizione delle proprie strategie.
+
+La presente Policy (di seguito anche la "Policy" o ii "Documento") ha lo scopo di disciplinare i principi (di seguito per semplicita anche "principi di sostenibilita") e le regale relative all'integrazione dei rischi di sostenibilita (Art. 3 del Regolamento (Ue) n. 2088/2019, di seguito citato come SFDR) che Azimut Capital Management SGR, in qualita di partecipante ai mercati
+
+
+finanziari e consulente finanziario, ha adottato nell'ambito dei processi decisionali relativi agli investimenti.
+
+
+
+2. QUADRO NORMATIVO DI RIFERIMENTO
+
+La presente Policy e stata predisposta tenendo canto dei servizi e delle attivita prestate dalla Societa nonche del vigente contesto normativo e regolamentare.
+Si riportano di seguito le principali disposizioni di riferimento:
+
+• Regolamento (UE) 2019/2088 del Parlamento Europeo e del Consiglio del 27 novembre 2019 relativo all'informativa sulla sostenibilita nel settore dei servizi finanziari;
+• Regolamento {UE) 2020/852 del Parlamento Europeo e del Consiglio del 18 giugno 2020 relativo all'istituzione di un quadro che favorisce gli investimenti sostenibili e recante modifica del regolamento (UE) 2019/2088;
+• Regolamento (UE) 2022/1288 della Commissione del 6 aprile 2022 che integra ii regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio per quanta riguarda le norme tecniche di regolamentazione che specificano i dettagli del contenuto e della presentazione delle informazioni relative al principio "non arrecare un danno significativo", the specificano ii contenuto, le metodologie e la presentazione delle informazioni relative agli indicatori di sostenibilita e agli effetti negativi per la sostenibilita, nonche ii contenuto e la presentazione delle informazioni relative alla promozione delle caratteristiche ambientali o sociali e degli obiettivi di investimento sostenibile nei documenti precontrattuali, sui siti web e nelle relazioni periodiche;
+• EU green Bond Standard: Iinee guida proposte dalla commissione tecnica europea (TEG) per classificare un'obbligazione come green bond.
+
+
+3. DEFINIZIONI
+
+
+Ai sensi della presente policy si intende per:
+
+• "Consulente finanziario": tra l'altro un GEFIA che fornisce consulenza in materia di investimenti conformemente all'articolo 6, paragrafo 4, lettera b}, punto i}, della direttiva 2011/61/UE; oppure una societa di gestione di OICVM che fornisce consulenza in materia di investimenti conformemente all'articolo 6, paragrafo 3, lettera b}, punto i}, della direttiva 2009/65/CE;
+• "Controversie": Le controversie ESG che spesso comportano presunte violazioni o implicano violazioni di norme nazionali o convenzioni internazionali e norme globali comunemente accettate.
+• "ESG": Environmental, Social e Governance, ossia ambientale, sociale e di governance.
+• "lnvestimento sostenibile" ai sensi dell' art. 2(17} SFDR: investimento in un'attivita economica che contribuisce ad un obiettivo ambientale e/o sociale, misurato, ad esempio, mediante indicatori chiave di efficienza delle risorse concernenti l'impiego di energia, l'impiego di energie rinnovabili, l'utilizzo di materie prime e di risorse idriche e l'uso del suolo, la produzione di rifiuti, le emissioni di gas a effetto serra nonche l'impatto sulla biodiversita e/o l'economia circolare e/o un investimento in un'attivita economica che contribuisce a un obiettivo sociale, in particolare un investimento che contribuisce alla lotta contra la disuguaglianza, e/o che promuove la coesione sociale, l'integrazione sociale e le relazioni industriali, e/o un investimento in capitale umano e/o in comunita economicamente e/o socialmente svantaggiate a condizione che tali investimenti non arrechino un danno significativo a nessuno di tali obiettivi e che le imprese che beneficiano di tali investimenti rispettino prassi di buona governance, in particolare per quanta riguarda strutture di gestione solide, relazioni con ii personale, remunerazioni del personale e rispetto degli obblighi fiscali.
+• "Fattori di sostenibilita" (art. 2(24) SFDR}: le problematiche ambientali, sociali e di governance concernenti per esempio ii personale, ii rispetto dei diritti umani e le questioni relative alla lotta alla corruzione attiva e passiva.
+
+
+• "Green Bond": Secondo la definizione della International Capital Market Association (ICMA} i Green Bond sono qualsiasi tipo di strumento obbligazionario i cui proventi vengono impiegati esclusivamente per finanziare o rifinanziare, in tutto o in parte nuovi e/o preesistenti progetti ambientali e che in ogni caso sono allineati con i quattro principi dei Green Bond Principle, quali utilizzo dei proventi, processo di valutazione e selezione del progetto, gestione dei proventi, attivita di reporting.
+• "MSCI ESG Research1": infoprovider di dati e ricerche ESG
+• "PAI": I Principal Adverse Impact Indicator secondo ii Regolamento 2019/2088 sono effetti negativi rilevanti o che potrebbero essere rilevanti sui fattori di sostenibilita che sono causati, aggravati o direttamente collegati alle decisioni di investimento ed alla consulenza finanziaria.
+• "Partecipante ai mercati finanziari": tra gli altri, un gestore di fondi di investimento alternativi (GEFIA}; una societa di gestione di un organismo d'investimento collettivo in valori mobiliari (societa di gestione di OICVM); un creatore di un prodotto pensionistico; un fornitore di un prodotto pensionistico individuale paneuropeo (PEPP).
+• "Prassi di buona governance": fa riferimento alle pratiche che includono strutture di gestione solide, relazioni con ii personale, remunerazione del personale e rispetto degli obblighi fiscali.
+• "Prodotti Finanziari": una gestione di portafoglio; un fondo di investimento alternative (FIA); un insurance based investment product (IBIP}, un prodotto pensionistico; uno schema pensionistico; un OICVM; oppure un prodotto pensionistico individuale paneuropeo PEPP.
+• "Prodotto finanziario ex Art.6 SFDR": prodotto finanziario che integra nel processo di investimento la valutazione dei rischi di sostenibilita ma che non ha ambizione di promuovere caratteristiche ambientali e/o sociali (ex Art. 8 SFDR) ne obiettivi di investimento sostenibile (ex Art. 9 SFDR).
+
+
+
+1 Per dettagli aggiuntivi vedi MSCI ESG Research - MSCI ESG Ratings Methodology: www.msci.com/esg-ratings.
+
+
+• "Prodotto finanziario ex Art. 8 SFDR": prodotto finanziario che promuove, tra le altre caratteristiche, caratteristiche ambientali o sociali, o una combinazione di tali caratteristiche, a condizione che le imprese in cui gli investimenti sono effettuati rispettino prassi di buona governance.
+• "Prodotto finanziario ex Art. 9 SFDR": prodotto finanziario caratterizzato dall'avere come obiettivo un investimento sostenibile e dall'adozione di criteri di misurazione del raggiungimento dell'obiettivo di investimenti indicato alla clientela.
+• "Prodotto pensionistico": a) un prodotto pensionistico di cui all'articolo 2, paragrafo 2, lettera e), del regolamento (UE) n. 1286/2014; oppure b) un prodotto pensionistico individuale di cui all'articolo 2, paragrafo 2, lettera g), del regolamento (UE) n. 1286/2014.
+• "Prodotto pensionistico individuale paneuropeo (PEPP)": un prodotto di cui all'articolo 2, punto 2, del regolamento (UE) 2019/1238.
+• "Rischio di sostenibilita" o "Rischio ESG" (art. 2(22) SFDR): un evento o una condizione di tipo ambientale, sociale o di governance che, se si. verifica, potrebbe provocare un significativo impatto negative effettivo o potenziale sul valore dell'investimento.
+• "RTS": norme tecniche di regolamentazione, cosl come contenute nel Regolamento (UE) 2022/1288 della Commissione Europea del 6 aprile 2022 che integra ii regolamento (UE) 2019/2088 del Parlamento europeo e del Consiglio Europeo.
+• "SDGs BOND": strumenti obbligazionari che fanno riferimento ad obiettivi sociali e/o ambientali, legati al raggiungimento di uno o piu dei 17 obiettivi di sviluppo sostenibile (SDG) previsti dalle Nazioni Unite. La percentuale di allineamento ad obiettivi ambientali e/o sociali, come normato dalla SFDR, si basa sull'allocazione dei proventi tra progetti di natura ambientale e/o sociale come riportato dal prospetto degli strumenti.
+• 	"SFDR": Regolamento (UE) 2019/2088 del Parlamento Europeo e del Consiglio Europeo del 27 novembre 2019 relativo all'informativa sulla sostenibilita nel settore dei servizi finanziari, e successive modifiche ed integrazioni.
+• "Social Bond": secondo la definizione della International Capital Market Association (ICMA) i Social Bond sono qualsiasi tipo di strumento obbligazionario i cui proventi
+
+
+vengono impiegati esclusivamente per finanziare o rifinanziare, in tutto o in parte nuovi e/o preesistenti progetti sociali e che in ogni caso sono allineati con i quattro principi dei Social Bond Principle, quali utilizzo dei proventi, processo di valutazione e selezione del progetto, gestione dei proventi, attivita di reporting. I Social Bond vengono considerati 100% allineati agli obiettivi sociali come da definizione SFDR.
+• "Strategie generali di investimento": strategie di investimento e loro eventuali modifiche, approvate, dal Consiglio di Amministrazione e riportate all'interno dei Prospetti dei Fondi gestiti dalla SGR (e.g. profile di rischio-rendimento del fondo).
+• "sustainability Bond": secondo la definizione della International Capital Market Association (ICMA) i Sustainability Bonds ("SBs") sono qualsiasi tipo di strumento obbligazionario i cui proventi, o ii cui importo equivalente, saranno applicati esclusivamente al finanziamento o al rifinanziamento di una combinazione di progetti sia ambientali che sociali.
+• "Sustainability Linked Bond": secondo la definizione della International Capital Market Association (ICMA) i Sustainability-Linked Bonds ("SLBs") sono qualsiasi tipo di prestito obbligazionario dotato di caratteristiche finanziarie e/o strutturali che possono variare a seconda che l'emittente raggiunga o meno obiettivi di sostenibilita/ESG predefiniti. In tal senso, gli emittenti si impegnano pertanto esplicitamente (anche nella documentazione delle obbligazioni) a raggiungere determinati risultati futuri di sostenibilita entro una tempistica predefinita. La percentuale di allineamento ad obiettivi ambientali e/o sociali, come normato dalla SFDR, si basa sull'allocazione dei proventi tra progetti di natura ambientale e/o sociale come riportato dal prospetto degli strumenti medesimi.
+• "Tassonomia UE delle attivita sostenibili": classificazione delle attivita economiche che possono essere considerate "sostenibili", cos) come previsto dal Regolamento '(UE) 2020/852 del Parlamento Europeo e del Consiglio Europeo del 18 giugno 2020 relativo all'istituzione di un quadro che favorisca gli investimenti sostenibili e recante modifica del regolamento (UE) 2019/2088.
+
+
+4. RUOLI E RESPONSABILITA
+
+
+Diagramma 1: Governance ESG AZCM
+
+
+
+
+?
+
+
+
+
+
+
+
+
+--+
++-
+
+
+
+
+
+
+
+
+
+
+--+
++-
+
+
+
+
+
+(1)	Due membri all'interno de/ Consiglio di Amministrazione hanno deleghe in merito a/lo sostenibilitci
+
+
+
+Si elencano di seguito le principali funzioni attribuite agli organi sociali, alle unita organizzative nell'ambito della adozione dei principi di sostenibilita:
+
+II Consiglio di Amministrazione della SGR (di seguito "CdA"), ossia I' organo con funzione di supervisione strategica della Societa:
+- approva la presente Policy e i successivi aggiornamenti;
+- supervisiona la corretta implementazione della presente policy;
+- definisce gli obiettivi e le Iinee strategiche di investimento, anche considerando quanta prescritto con riferimento ai fattori ESG;
+- approva la lista di esclusione, emanata dal Comitato lnvestimenti delle gestioni collettive, con ii supporto della Funzione Risk Management ed in base ai criteri emanati
+
+
+dal Comitato di Sostenibilita della SGR su base almeno semestrale.
+- supervisiona gli aspetti di sostenibilita sulla base dell'indirizzo del "Comitato di Sostenibilita: ESG, SRI, CSR" istituito presso la Capogruppo ed al supporto del Comitato di Sostenibilita istituito presso la SGR.
+
+II Comitato di Sostenibilita istituito presso della SGR {di seguito "CS") e nominate dal CDA e si riunisce con frequenza almeno trimestrale. II Comitato e composto da:
+rappresentanti delle funzioni investimenti delle collettive, delle gestioni patrimoniali, dei Fondi Pensione e del Servizio di Consulenza;
+rappresentante della funzione Compliance; rappresentante della funzione Risk; rappresentante della funzione Prodotti; rappresentante della funzione IT; rappresentante della funzione Operation; rappresentante della funzione Commerciale; rappresentante della funzione Marketing.
+
+11 CS:
+
+- fornisce supporto al Consiglio di Amministrazione e/o al Comitato lnvestimenti riguardo tematiche ESG connesse alle attivita di investimento e alle politiche per l'esercizio dei diritti di voto nei confronti delle societa oggetto di investimento;
+- puo  proporre  modifiche  alla  presente  policy  e  ne  monitora  la  corretta
+
+implementazione;
+e incaricato della definizione ed aggiornamento degli approcci e metodologie adottate in ambito ESG, con ii supporto della Funzione Risk Management;
+puo proporre al Consiglio di Amministrazione modifiche inerenti i prodotti che consentano l'inclusione dei medesimi tra quelli che promuovono caratteristiche ambientali e/o sociali al sensi dell'Articolo 8 o promuovono investimenti sostenibili ai sensi dell'Articolo 9 del Regolamento (UE) 2019/2088 ("Regolamento SFDR");
+
+
+
+
+ha la facolta di esprimere pareri sulla valutazione di inclusione ed esclusione di emittenti e fondi, in merito alle valutazioni elaborate internamente dal Comitato lnvestimenti.
+  pareri del Comitato, qualora differenti, prevalgono su quelli espressi dai Comitati di investimento di AZCM.
+
+II Comitato di Sostenibilita, ESG, SRI, CSR istituito presso la Capogruppo Tale comitato e dedicato alla supervisione delle questioni di sostenibilita connesse all'esercizio dell'attivita d'impresa ed
+alle dinamiche di interazione con tutti gli stakeholder, collabora con le altre societa del Gruppo per una adeguata considerazione nello sviluppo dei business degli aspetti sociali ed ambientali.
+
+II Comitato lnvestimenti delle gestioni collettive Ucits, FIA aperti e Fondi Pensione (qui di seguito Comitato lnvestimenti collettive) presieduto dal Direttore lnvestimenti definisce le strategie di gestione considerati i principi richiamati nella presente policy per la gestione del rischio di sostenibilita e valuta nel continuo, con ii supporto della Funzione di Risk management e del CS, l'aderenza delle strategie rispetto a tali principi.
+Con specifico riferimento ai settori ed emittenti ad alto rischio di sostenibilita, ii Comitato lnvestimenti delle collettive:
+- emana ed implementa le liste di esclusione approvate dal CdA, con ii supporto della Funzione Risk Management
+implementa le diverse strategie di integrazione dei fattori di sostenibilita, a seconda della caratterizzazione in termini di sostenibilita dei prodotti {ALLEGATO 1).
+I membri del presente Comitato, ove ritenuto necessario, possono essere invitati a partecipare al 11Comitato di Sostenibilita: ESG, PR!, CSR" istituito presso la Capogruppo e/o al Comitato di Sostenibilita della SGR.
+II Comitato Asset Allocation Gestioni Patrimoniali lndividuali, presieduto dal Responsabile delle Gestioni, definisce le strategie di gestione considerati i principi richiamati nella presente policy per la gestione del rischio di sostenibilita e valuta nel continuo, con ii supporto della Funzione
+
+
+di Risk management l'aderenza delle strategie rispetto a tali principi.
+Con specifico riferimento ai settori ed emittenti ad alto rischio di sostenibilita, ii Comitato Asset Allocation Gestioni Patrimoniali lndividuali:
+recepisce gli aggiornamenti della lista delle esclusioni approvate dal CdA, con ii supporto della Funzione Risk Management e del CS;
+si impegna a rispettare le diverse strategie di integrazione dei fattori ESG, a seconda della caratterizzazione in termini di sostenibilita dei prodotti (ALLEGATO l)ln considerazione della specificita del servizio, qualora ii cliente all'interno di un contratto di gestione di portafoglio, esprima istruzioni specifiche circa l'esecuzione di operazioni di investimento in settori e/o emittenti ad alto rischio di sostenibilita la SGR considera vincolante l'istruzione e provvede alla relativa esecuzione .
+I membri del presente Comitato, ove ritenuto necessario, possono essere invitati a partecipare al "Comitato di Sostenibilita: ESG, PRI, CSR" istituito presso la Capogruppo e/o al Comitato di Sostenibilita della SGR.
+
+II Comitato di Advisory, presieduto dai Responsabili di linea, nella definizione dell'asset allocation considera i principi richiamati nella presente policy per la gestione del rischio di sostenibilita e valuta nel continua, con ii supporto della Funzione di Risk management l'aderenza delle strategie rispetto a tali principi.
+Con specifico riferimento ai settori ed emittenti ad alto rischio di sostenibilita, ii Comitato Advisory:
+recepisce gli aggiornamenti della lista delle esclusioni approvate dal Cda, con ii supporto della Funzione Risk Management e del CS;
+- si impegna a rispettare le diverse strategie di integrazione dei fattori ESG, a seconda della caratterizzazione in termini di sostenibilita dei prodotti (ALLEGATO 1).
+
+I membri del presente Comitato, ave ritenuto necessario, possono essere invitati a partecipare al "Comitato di Sostenibilita: ESG, PRI, CSR" istituito presso la Capogruppo e/o al Comitato di Sostenibilita della SGR.
+
+
+
+
+Si rimanda ai processi di investimento nell'ambito dei servizi di Gestione Collettiva del Risparmio di tipologia Ucits e Fia aperti e dei Fondi Pensione, Gestione lndividuale ed Advisory per ulteriori dettagli.
+
+
+
+4.1. Ruolo delle funzioni di controllo
+
+
+La Funzione Compliance garantisce e sovraintende la conformita della presente Policy rispetto alle disposizioni normative di volta in volta vigenti.
+La Funzione Risk Management ha, nell'ambito dell'attivita ordinaria, ii compito di monitorare l'aderenza dei prodotti ai principi stabiliti in merito alla mitigazione del rischio di sostenibilita oltre al rispetto degli elementi per la classificazione del prodotto finanziario come prodotto che promuove caratteristiche ambientali e/o sociali (Art. 8 SFDR), e/o che persegue obiettivi di investimento sostenibili (ex Art. 9 SFDR). La Funzione supporta inoltre i CdA con riferimento all'approvazione delle liste di esclusione ed ii Comitato di Sostenibilita della SGR, nella definizione e aggiornamento degli approcci e metodologie adottate in ambito ESG.
+La Funzione Internal Audit verifica periodicamente l'adeguatezza e l'efficacia dei sistemi, dei processi, delle procedure e dei meccanismi di controllo adottati dalla Societa.
+
+
+
+5. PRINCIPI GENERALI
+
+
+Azimut Capital Management SGR S.p.A. svolge le proprie attivita operando secondo i principi stabiliti nella "Carta dei Valori" del Gruppo, che considera l'equita, la trasparenza, l'indipendenza, la liberta, la lealta, la fiducia, l'innovazione e la sostenibilita quali fondamenta su cui si basare un sistema orientato alla sostenibilita2•
+
+
+2 Per ulteriori informazioni in merito, e possibile consultare ii documento "ESG in action" disponibile sul sito internet del Gruppo.
+
+
+lnoltre, nel 2019, Azimut Holding S.p.A. ha sottoscritto su base volontaria i Principles for Responsible Investment (di seguito anche "PRl")3, promossi dalle Nazioni Unite nel 2006, al fine di favorire la diffusione dell'investimento sostenibile e responsabile.
+Tali "principi" definiscono una serie di interventi che i soggetti aderenti devono osservare e che riguardano:
+1. lntegrare le tematiche ESG nell'analisi e nei processi decisionali riguardanti gli investimenti.
+2. Essere azionisti attivi e incorporare le tematiche ESG nelle politiche e nelle pratiche di azionariato attivo.
+3. Chiedere un'adeguata comunicazione relativamente alle tematiche ESG da parte degli enti nei quali si investe.
+4. Promuovere l'accettazione e l'applicazione dei "principi" nel settore finanziario.
+s.	Collaborare per migliorare l'efficacia nell'applicazione dei "principi".
+
+6.	Comunicare le attivita e i progressi compiuti nell'applicazione dei "principi".
+
+
+Tali indicazioni rivestono un ruolo sempre piu rilevante nell'operare quotidiano della SGR come testimonia la partecipazione attiva ad importanti tavoli di lavoro sulle tematiche ESG, come nel caso del Forum per la Finanza Sostenibile4 e l'avvio dell'attivita di monitoraggio dei propri impatti legati al cambiamento climatico, nonche di analisi sui rischi ad esso connessi attraverso l'adesione al CDP (Carbon Disclosure Project)5.
+Azimut Capital Management SGR S.p.A. si ispira ai Principi ltaliani di Stewardship, linee guida di supporto per le societa di gestione del risparmio, volte ad assicurare - in particolare con riferimento all'esercizio dei diritti amministrativi e di voto nelle societa quotate -  piena
+
+
+
+3 https://www.unpri.org/
+4 Associazione non-profit nata nel 2001. La base associativa e multi-stakeholder: ne fanno parte operatori finanziari e altre organizzazioni interessate all'impatto ambientale e sociale degli investimenti.
+5 Organizzazione non-profit che offre ad aziende e paesi un sistema per misurare, rilevare, gestire e condividere a livello globale informazioni riguardanti ii cambiamento climatico.
+
+
+trasparenza in merito a performance e strategia dell'emittente, governance, responsabilita sociale di impresa e gestione dei rischi6•
+
+
+6. L'INTEGRAZIONE DEL RISCHIO DI SOSTENIBILITA' NEL PROCESSO DI INVESTIMENTO
+
+
+I rischi di sostenibilita sono definiti come un evento o una condizione di tipo ambientale, sociale o di governance che, se si verifica, potrebbe provocare un significativo effetto negative reale o potenziale sul valore degli investimenti.
+
+Azimut Capital Management SGR S.p.A. integra le tradizionali analisi finanziarie con la valutazione dei rischi di sostenibilita attinenti alle proprie scelte di investimento/proposte di investimento. A tal proposito, investire tenendo in considerazione i rischi di sostenibilita si sostanzia nel considerare i fattori che hanno o potrebbero potenzialmente avere un impatto materiale nelle analisi e nelle scelte d'investimento, inclusi i fattori di sostenibilita di seguito rappresentati:
+• i fattori di sostenibilita ambientale che consentono di valutare come un emittente gestisca i rischi e le opportunita derivanti ad esempio dal cambiamento climatico e dall'utilizzo delle risorse ambientali;
+• i fattori di sostenibilita sociale che dimostrano come l'oggetto dell'investimento sia valutato rispetto a temi di natura sociale (quindi ad es. rispetto dei diritti umani, condizioni di lavoro, salute e sicurezza);
+• i fattori di sostenibilita di governo di un emittente si traduce nella valutazione, ad esempio, dell'organizzazione e struttura societaria anche in termini di composizione delle cariche societarie e diversity, e nella definizione degli obiettivi aziendali e politiche di remunerazione (tra cui diritti degli azionisti, prevenzione della corruzione, etc.).
+
+
+
+
+
+6 Al fine di assicurare la piena trasparenza informativa verso gli investitori, Azimut Capital Management si impegna a rendicontare l'attivita di voto e di engagement svolta. La rendicontazione avverra annualmente in caIce al bilancio della societa.
+
+
+6 .1 Lista di esclusione
+Azimut Capital Management SGR S.p.A. esclude dal perimetro di investimento dei fondi, delle GP e della consulenza in materia di investimenti gli emittenti operanti in settori 'non socialmente responsabili', facendo rientrare in tale definizione gli emittenti coinvolti in attivita che possono comportare rischi ambientali e sociali significativi. Per determinate tipologie di servizi e prodotti finanziari, le liste di esclusione vengono declinate secondo la Tabella 2 del paragrafo 6.1.
+
+L'elenco degli emittenti (Lista di esclusione) su cui non e consentito investire ovvero non e
+consentito fornire raccomandazioni alla luce dei principi stabiliti nella presente policy e
+approvato dal CdA della SGR e viene aggiornato, con ii supporto della Funzione Risk Management e del CS, di norma su base almeno semestrale.
+II processo di esclusione e di valutazione dei rischi di sostenibilita e agevolato dal supporto di basi
+dati e nello specifico di informazioni/ricerche fornite da MSCI ESG Research in funzione delle quali si arriva alla esclusione, dalla definizione del perimetro investibile e/o oggetto di raccomandazione, di strumenti finanziari di emittenti "non socialmente responsabili".
+
+Nello specifico la SGR non investe ne raccomanda investimenti in Emittenti per cui risulta soddisfatto uno o piu dei seguenti criteri:Tabella 1- Criteri di esclusione
+SettoreSpecificita
+Armi Nucleari-	Tutti gli emittenti che generano piu dell'l,5 % del fatturato annuale, da
+attivita relative alla produzione di armi nucleari ea sistemi, componenti e servizi ad esse correlati.
+Gioco d'azzardo- Tutti gli emittenti che genera no piu del 5 % del fatturato annuale, da attivita
+legate al gioco d'azzardo.
+Pornografia- Tutti gli emittenti che generano piu dell'l,5 % del fatturato annuale, da
+attivita relative alla pornografia.
+Tabacco- Tutti gli emittenti che generano piu del 5,0% o piu del fatturato annuale, da
+attivita relative a produzione e commercializzazione di tabacco.
+
+
+Carbone termico- Tutti gli emittenti che generano piu del 20% o piu del fatturato annuale, da
+estrazione di carbone termico (compresi lignite, bituminoso, antracite e carbone a vapore) e sua vendita a terzi.
+   Armi controverse- Tutti gli emittenti che hanno qualsiasi legame con munizioni a grappolo,
+mine antiuomo, armi biologiche/chimiche, armi all'uranio impoverito, armi laser accecanti, armi incendiarie e/o frammenti non rilevabili.
+
+Con specifico riferimento agli emittenti governativi, per promuovere l'importanza della sostenibilita a livello di politiche governative in campo ambientale, sociale e di governance, vengono presi a riferimento i rating assegnati sulla base della metodologia MSCI ESG Government Rating specifica per tale categoria di emittenti. Sono validi anche in questo caso i limiti di esclusione sotto riportati in merito alla soglia di rating.
+
+Nella tabellache segue viene riepilogata l'applicazione del principio di esclusione per ti pologia di prodotto finanziario e servizio di investimento erogato da Azimut:
+
+Tabella 2 -Applicazione dei criteri di esclusione ai prodotti finanziari
+
+Esclusione per:Prodotti ex Art. 6 SFDRProdotti ex Art. 8 SFDROICRLista di esclusione• Lista di esclusione
+• Si rimanda al paragrafo 7Fondi pensioneLista di esclusione• Lista di esclusione
+• Emittenti con rating
+ESG pari a "CCC" 8
+• OICR con rating ESG
+pari a "B" e "CCC"
+
+
+
+8 II Rating ESG "CCC" corrisponde al valore piu basso attribuibile ad un investimento secondo la scala di MSCI Research e contraddistingue un'azienda in ritardo rispetto al proprio settore a causa della sua elevata esposizione e dell'incapacita di gestire significativi rischi ESG.
+
+
+Gestioni di Portafoglio9Lista di esclusione• Lista di esclusione
+• Emittenti con rating
+ESG pari a "CCC"
+• OICR con rating ESG pari a
+"B" e "CCC"Tabella 3 -Applicazione dei principi di esclusione ai servizi di investimento
+
+Esclusioni per:Consulenza BaseLista OICR con rating ESG pari a "CCC"Consulenza EvolutaLista di esclusioneConsulenza Evoluta in OICRLista OICR con rating ESG pari a "CCC"
+
+Le liste di esclusione si applicano a tutti i Prodotti d'investimento gestiti direttamente dalla SGR o da gestori degli investimenti delegati appartenenti al Gruppo Azimut. I Prodotti d'investimento gestiti da gestori degli investimenti delegati, non appartenenti al Gruppo Azimut, seguono la propria politica ESG e le proprie eventuali liste di esclusione.
+
+
+6.2 Metodologie di considerazione dei Principali Effetti Negativi (PAI}
+6.2.1. Definizione dei PAI
+I Principali effetti negativi ("PAI") devono essere intesi come gli effetti negativi che le decisioni d'investimento possono avere su problematiche ambientali, sociali e di governance aziendale, ll Regolamento SFDR ha individuate 14 PAI, di natura obbligatoria, applicabili alle imprese oggetto degli investimenti e 2 applicabili agli investimenti in emittenti sovrani e organismi sovranazionali.
+La SGR si impegna a prendere in considerazione i PAI obbligatori per tutti i suoi prodotti d'investimento10, laddove la disponibilita di dati lo consenta.
+
+
+9 Qualora ii cliente, tramite disposizione specifica, ove gia normata dal mandato, intenda operare in settori e/o emittenti ad alto rischio di sostenibilita ed inclusi nella lista delle esclusioni tale disposizioni possono essere eseguite.
+10 In caso di investimenti in emittenti dove la disponibilita di metriche ESG, ivi comprese i PAI, non sia disponibile, la presa in considerazione dei PAI awiene secondo ii principio di "Best Effort". A tal fine si precisa che si prevede di aumentare gradualmente la copertura degli emittenti in tema di rating ESG anche tramite l'utilizzo di provider di dati ESG, aggiuntivi ad MSCI ESG Research.
+
+
+I PAI devono essere intesi come quegli impatti delle decisioni di investimento o di consulenza finanziaria che determinano effetti negativi sui fattori di sostenibilita. Tutti i PAI obbligatori sono calcolati e monitorati11.
+
+6.2.2 Lista dei PAI
+
+
+PAI 1. Emissioni di Gas a effetto serra PAI 2. lmpronta di carbonio
+PAI 3. lntensita di gas serra delle societa partecipate
+
+PAI 4. Esposizione ad aziende attive nel settore dei combustibili fossili PAI 5. Quota di consumo e produzione di energia non rinnovabile
+PAI 6. lntensita del consumo di energia per settore ad alto impatto climatico PAI 7. Attivita che influenzano negativamente la biodiversita
+PAI 8. Emissioni in acqua
+
+PAI 9. Produzione di rifiuti pericolosi
+
+PAI 10. Violazione dei principi dell'UNGC o delle linee guida dell'OCSE per le imprese multinazionali
+
+PAI 11. Mancanza di processi e meccanismi di conformita per monitorare ii rispetto del Global Compact delle Nazioni Unite e dei principi e linee guida dell'OCSE per le imprese multinazionali
+
+PAI 12. Divario retributivo di genere
+
+PAI 13. Diversita di genere del consiglio di amministrazione
+
+PAI 14. Esposizione ad armi controverse (mine antiuomo, munizioni a grappolo, armi chimiche e biologiche)
+
+PAI applicabili ad investimenti in governi e/o organismi sovranazionali
+
+
+
+11 Secondo ii principio di "Best Effort", in particolare per gli emittenti di tipologia "private", per i quali si rawisa un ampio "data gap".
+
+
+PAI 15. lntensita di emissioni di gas serra dei Paesi PAI 16. Paesi soggetti a violazioni di diritti umani
+
+6.2.3 Lista dei PAI prioritizzati per singolo prodotto
+La SGR si e, inoltre, focalizzata su uno specifico sottoinsieme di PAI in base alle differenti caratteristiche dell'universo investibile di ciascun prodotto finanziario.
+Tabella 1- Prodotti ex art. 8 SFDR istituiti dalla SGR a giugno 2023
+
+
+
+PAI prioritizzatiNome del prodotto12345678910111213141516Azimut Sustainable Future - Comparto Bilanciato
+ConservativeAzimut Sustainable Future - Comparto BilanciatoAzimut Sustainable Future - Comparto Bilanciato
+Accrescitivo
+,/GP Selection Plus Sustainable Bond,/GP Selection Plus Sustainable Equity,/
+
+Si evidenzia che, al momenta della stesura ed aggiornamento della presente Policy, la SGR non ha istituito prodotti finanziari ex Art. 9 SFDR
+
+6.2.4 Considerazione dei PAI
+Gli effetti negativi sui fattori di sostenibilita vengono presi in considerazione a livello di prodotto mitigati in 4 modi:
+1. II primo consiste nell'integrazione dei fattori di sostenibilita nel processo di investimento: le societa con elevati rating E, S e G presentano, di norma, minori effetti negativi principali, in termini assoluti e/o in relazione al loro settore, (PAI) a causa di standard piu elevati/migliori prassi operative.
+
+
+2. II secondo e tramite l'applicazione della lista di esclusione, che vieta gli investimenti in societa operanti in settori considerati non sostenibili e/o che possono comportare rischi ambientali e sociali significativi. L'esclusione degli emittenti che hanno maggiori probabilita di generare effetti negativi sui fattori di sostenibilita contribuisce a ridurre i PAI a livello di portafoglio.
+3. II terzo consiste nell'esercizio dell'azionariato attivo. Poiche la SGR ha aderito alla Politica di Sostenibilita dell'outsourcer 155 12, in linea con i Principi per l'lnvestimento Responsabile (PRI) delle Nazioni Unite, i voti relativi a ciascuna delibera sono espressi in modo da incentivare le societa investite ad adottare standard piu elevati, migliorare le proprie prassi e ridurre al minima i PAI sull'ambiente e sulla societa.
+4. II quarto e attraverso la selezione di prodotti finanziari (in particolare fondi, ETF}, che si pone l'obiettivo di privilegiare, ove possibile e se disponibile, prodotti classificati ex Art.9 SFDR o, in seconda istanza, quelli classificati ex Art.8 SFDR (non precludendo la possibilita detenere anche prodotti ex Art. 6 SFDR in portafoglio}. Maggiore e la presenza di prodotti ex Art.8 ed ex Art.9 SFDR in portafoglio, maggiore sara quindi ii contenimento dei PAI.
+
+La funzione Risk Management monitora costantemente i PAI attraverso un modello proprietario in cui i valori possono essere consultati sia a livello di singole posizioni, sia a livello aggregate di portafoglio, affinche siano presi in considerazione nel processo decisionale di investimento insieme ai rating ESG e alle metriche finanziarie tradizionali. Tuttavia, considerata la disponibilita ancora limitata di dati affidabili su molti PAI, la grande variabilita dei dati PAI a livello settoriale e geografico, nonche la loro natura retrospettiva, none stato ritenuto opportuno fissare soglie o limiti puntuali.
+
+II principale motivo per cui non vengono fissati limiti puntuali per i PAI, e che attualmente la percentuale di societa che riportano i dati sui PAI risulta essere ridotta, ed e ragionevole
+
+
+
+12 https://www.issgovernance.com/about/about-iss/
+
+
+aspettarsi che nuove societa inizino a pubblicare i dati sui PAI in futuro. Poiche i PAI a livello di portafoglio vengono calcolati solo con riferimento alle societa che pubblicano i dati rilevanti, e possibile che nel tempo ii valore dei PAI, a livello di portafoglio, possa aurnentare man rnano che
+le societa iniziano a riportare tali dati. In questo caso, l'aumento del valore dei PAI a livello di portafoglio non implicherebbe necessariamente che ii portafoglio sia investito in societa con
+effetti negativi peggiori, ma che tale casistica sia sernplicemente ii risultato dell'aurnento della copertura. II gestore di portafoglio, pertanto, e tenuto a valutare l'evoluzione dei PAI rettificati per l'effetto distorsivo causato dall'aumento della copertura.
+Un ulteriore motivo per cui non sono stati fissati lirniti puntuali ai PAI e rappresentato dal fatto
+che concentrarsi solo sul valore assoluto dei PAI puo portare a scelte non ottimali in termini di sostenibilita, soprattutto se le societa, potenzialrnente oggetto di investimento, hanno intrapreso un percorso di rniglioramento delle proprie prassi, in quanto i PAI per loro natura sono indicatori backward-looking. La riduzione piu significativa degli effetti negativi sui fattori di sostenibilita risulta possibile proprio incentivando quelle imprese che oggi hanno bassi standard operativi e quindi elevati effetti negativi, a migliorare le proprie prassi, supportandole anche finanziariarnente nella transizione verso un sistema produttivo piu sostenibile ed esercitando ii nostro dovere di investitore responsabile, indirizzando le decisioni strategiche delle societa partecipate attraverso l'azionariato attivo, in modo tale (tra l'altro) da ridurre gli effetti negativi degli investimenti in tali emittenti.
+lnoltre si ritiene possibile che le societa partecipate, nel corso degli anni, possano registrare casi di aumento anziche di riduzione di uno o piu dei propri PAI. II gestore di portafoglio effettua quindi la valutazione dei PAI prima a livello aggregato, per determinare quale sia ii percorso di sostenibilita complessivo dell'azienda, e poi su ciascun PAI separatarnente.
+
+
+6.3 Azionariato attivo
+Azimut Capital SGR considera l'esercizio del diritto di voto e dell'azionariato attivo della massima importanza non solo per ii raggiungimento delle strategie di investimento e la tutela dei propri diritti di azionista, ma anche per ii miglioramento degli standard ambientali e sociali delle societa partecipate e quindi per la mitigazione dei PAI. Azimut Capital Management
+
+
+esercita ii proprio dovere di investitore responsabile incoraggiando, attraverso ii voto per delega e l'impegno con ii management, le societa partecipate ad adottare pratiche ambientali, sociali e di governance sostenibili. Si rimanda al paragrafo 8 per maggiori dettagli.
+
+6.4 ldentificazione e valutazione del rischio di sostenibilita
+II rischio ESG connesso alle variabili ambientali, sociali e di governance e identificato per ciascun emittente / prodotto finanziario oggetto di investimento.
+La valutazione del rischio di sostenibilita viene effettuata attraverso l'analisi dei rating ESG e la considerazione dei PAI, in quanta entrambe le metriche forniscono informazioni dettagliate sul rischio di sostenibilita di un emittente.
+Attraverso l'analisi ed i rating di MSCI ESG13e la considerazione dei PAI, la SGR monitora continuamente, a livello di singola posizione ea livello di portafoglio complessivo, l'esposizione e ii livello di rischio ESG di un portafoglio. In genere, maggiori sono i punteggi ESG e quanta piu contenuti sono i valori dei PAI, maggiori sono gli standard adottati dalla societa oggetto
+d'investimento nella sua attivita di business (o da un Paese nel suo modo di governare una nazione} e minore e ii rischio di sostenibilita che un evento avverso possa verificarsi e portare a una diminuzione del valore dell'investimento. L'integrazione dei fattori di sostenibilita nel
+processo investimenti riduce, quindi, i rischi di sostenibilita.
+II monitoraggio del rischio di sostenibilita avviene sia identificando settori di investimento che emittenti ad alto rischio di sostenibilita. La Societa per svolgere tale analisi si avvale, a titolo esemplificativo e non esaustivo, di:
+• rating ESG forniti dall'info-provider esterno "MSCI" attraverso la piattaforma "MSCI ESG Manager" per ciascuna tipologia di emittente (i.e. di tipo societario o di tipo governativo);
+• Bloomberg;
+
+• ricerche e analisi fornite da "MSC/" e/o da eventuali altre terze parti come Banche di investimento e broker specializzati.
+
+
+13 Si rimanda all'Allegato 2
+
+
+
+In caso di conferimento di delega di gestione a soggetti terzi, e previsto che ii processo di selezione degli Asset Manager tenga anche in considerazione i rischi di sostenibilita attraverso l'analisi, da parte della Funzione Risk Management, delle politiche adottate dal delegato in tema di sostenibilita. Si rimanda al paragrafo 10 per ulteriori dettagli.
+
+
+
+7. I PRODOTTI FINANZIARI ex Art. 8 SFDR
+
+
+7.1 lntroduzione
+
+In merito ai prodotti finanziari ex Art. 8 SFDR, istituiti dalla SGR, ii Regolamento prevede la divulgazione di ulteriori informazioni destinate agli investitori relativamente alle seguenti voci:
+
+• la modalita con cui un prodotto intende promuovere caratteristiche ambientali e/o sociali;
+• la percentuale minima di attivi del prodotto che deve essere destinata agli investimenti che promuovono caratteristiche ambientali e/o sociali e gli elementi vincolanti;
+• se ii prodotto ha assunto o meno un impegno a favore di investimenti sostenibili;
+• quali criteri vengono utilizzati per stabilire se un investimento deve essere considerate sostenibile o meno;
+• la percentuale minima, se del caso, del portafoglio che viene impegnata a favore di
+investimenti sostenibili;
+• nell'ambito della quota riservata agli investimenti sostenibili, se del caso, qual e l'ulteriore impegno, se del caso, a favore di investimenti in linea con la tassonomia dell'UE, anziche
+ad altri obiettivi ambientali diversi da quelli perseguiti dalla tassonomia dell'UE o ad obiettivi sociali;
+• se ii prodotto prenda o meno in considerazione i PAI.
+
+Per ciascun prodotto ex Art. 8 SFDR, tutte le informazioni di cui sopra sono fornite nel documento intitolato "lnformativa precontrattuale per i prodotti finanziari di cui all'articolo 8, paragrafi 1, 2 e 2 bis, del regolamento (UE) 2019/2088 e all'articolo 6, primo comma, del regolamento (UE) 2020/852" (di seguito "Informative precontrattuali"). Le Informative precontrattuali dei prodotti ex Art. 8, se del caso, sono reperibili negli allegati al Prospetto di
+
+
+ciascun prodotto d'investimento istituito dalla SGR. Ulteriori informazioni sono reperibili inoltre nella sezione "lnformativa alla sostenibilita" del sito web, disponibile all'indirizzo https://www.azimut.it/sostenibilita/informativa-sostenibilita
+Per quanta riguarda i PAI si rimanda al paragrafo 6.2. Di seguito si descrivono:
+1) le strategie per la promozione di caratteristiche ambientali e/o sociali;
+
+2) i criteri utilizzati per determinare se un investimento deve essere considerate sostenibile;
+
+3) gli elementi vincolanti con riferimento ai punti 1) e 2).
+
+
+
+7.2 Strategie per la promozione delle caratteristiche ambientali e/o sociali
+
+La SGR svolge le seguenti attivita per promuovere caratteristiche ambientali e/o sociali:
+
+lntegrazione dei fattori ESG
+
+I punteggi relativi ai fattori ambientali, sociali e di governance di ogni singolo investimento vengono presi in considerazione sia a livello di singoli titoli che su base aggregata. Tale scopo viene raggiunto attraverso un'ottimizzazione che viene effettuata principalmente non considerando e/o riducendo gli investimenti con i punteggi ESG piu bassi, preferendo invece gli investimenti con punteggi ESG piu alti. In caso di investimenti in altri prodotti finanziari (ossia fondi), nel processo di selezione la SGR predilige i prodotti finanziari classificati ex Art, 9 o ex Art. 8 dell'SFDR.
+Per ulteriori dettagli si rimanda all'appendice metodologica della presente Policy (A/legato 2).
+
+Lista di esclusione
+
+La SGR non investe in societa la cui quota di fatturato derivante da attivita considerate non sostenibili e/o che possano comportare significativi rischi ambientali e sociali sia superiore ad una determinata soglia, o in fondi con un rating ESG considerato eccessivamente basso.
+Per ulteriori dettagli si rimanda al paragrafo 6.1 della presente Policy.
+
+
+Azionariato attivo
+
+La SGR esercita ii proprio dovere di investitore responsabile incoraggiando le imprese che beneficiano degli investimenti, attraverso ii voto per delega e l'impegno con ii management, ad adottare prassi sostenibili in materia ambientale, sociale e di governance.
+Per ulteriori dettagli si rimanda al paragrafo 8 della presente Policy.
+
+Considerazione dei PAI
+
+Gli effetti negativi degli investimenti sui fattori di sostenibilita vengono calcolati e monitorati concentrandosi in particolare su un sottoinsieme specifico di PAI. La SGR effettua quindi la valutazione del sottoinsieme di PAI considerati prima a livello aggregate per determinare quale sia ii percorso complessivo di sostenibilita dell'impresa, e successivamente su ciascun PAI separatamente.
+Per ulteriori dettagli si rimanda al paragrafo 6.2.4 della presente Policy.
+
+Quota minima di investimenti sostenibili, ave previsti
+
+Per i prodotti d'investimento che dichiarano un impegno minima a realizzare investimenti sostenibili, la conformita al rispetto dell'impegno minima dichiarato.
+
+
+7.3 Criteri per determinare se un investimento debba essere considerato sostenibile
+
+
+L'articolo 2 (17) del Regolamento SFDR definisce tre condizioni che devono essere contemporaneamente soddisfatte, affinche un investimento possa essere considerate sostenibile:
+1. un contribute positive misurato generate da ciascun investimento ad un obiettivo ambientale o sociale;
+2. che tale investimento non arrechi alcun danno significativo a nessuno di tali obiettivi (principio "non arrecare un danno significativo", i.e. "DNSH") attraverso la considerazione degli effetti negativi sui fattori di sostenibilita e la valutazione dell'allineamento dell'investimento alle Linee guida OCSE destinate alle imprese multinazionali e ai Principi guida delle Nazioni Unite su imprese e diritti umani;
+
+
+3. le imprese che beneficiano degli investimenti e che seguono prassi di buona governance, in particolare in relazione a strutture di gestione solide, relazioni con ii personale, remunerazione del personale e rispetto degli obblighi fiscali.
+
+
+La SGR utilizza la metodologia di MSCI ESG Research per valutare le condizioni di cui sopra in base alle seguenti regale:
+1. Contributo positivo: le imprese che generano almeno ii 20% dei propri ricavi da prodotti
+o servizi che contribuiscono a uno o piu obiettivi sociali o ambientali sono considerate come aventi un contributo positive per tali obiettivi. Dal punto di vista di un obiettivo ambientale, la metodologia comprende attivita incentrate sulla mitigazione dei cambiamenti climatici e sull'efficienza energetica, sulla prevenzione dell'inquinamento e sulla riduzione della produzione di rifiuti, sulla gestione sostenibile delle risorse idriche, forestali e del suolo. Le attivita incentrate sugli obiettivi sociali includono l'accesso ai bisogni primari, come l'assistenza sanitaria, l'alloggio e l'alimentazione, l'erogazione di prestiti alle PMI e ai singoli, i servizi educativi e ii superamento del divario digitale nei paesi meno sviluppati. Di conseguenza, la metodologia utilizza i dati sui ricavi per rilevare ii contributo positive per gli obiettivi ambientali e sociali. Nel determinare quale quota di investimenti sostenibili contribuisce al raggiungimento delle soglie minime di "investimenti sostenibili con un obiettivo ambientale che non sono allineati alla tassonomia dell'UE" o di "investimenti socialmente sostenibili" (come previsto dal Regolamento SFDR}, verra presa in considerazione la percentuale di ricavi che genera un contribute positivo rispettivamente per gli obiettivi ambientali e sociali.
+
+2. DNSH: La metodologia considera un sottoinsieme dei principali effetti negativi sui fattori di sostenibilita e l'allineamento con le Linee guida OCSE destinate alle imprese multinazionali e i Principi del Global Compact dell'ONU (UNGC} quali criteri per evitare di arrecare danni e rispettare le garanzie minime di salvaguardia sociale.
+
+3. Prassi di buona governance: la valutazione delle prassi di buona governance da parte di MSCI ESG Research consiste nel garantire che la governance di ciascuna impresa che beneficia degli investimenti si basi su regale di condotta allineate alle migliori prassi internazionali (come le Iinee guida OCSE destinate alle imprese multinazionali e i Principi guida delle Nazioni Unite su imprese e diritti umani} e ispirate dalla considerazione degli interessi di tutti gli stakeholder anche per mezzo di una politica retributiva, delle relazioni con ii personale e del rispetto degli obblighi fiscali. Secondo la metodologia di MSCI ESG Research, un rating complessivo ESG pari o superiore a BB di norma indica la capacita di
+
+
+una societa di gestire le risorse, di mitigare i rischi e le opportunita ESG chiave e di soddisfare le aspettative di governance societaria iniziali.
+
+
+Sulla base di quanta sopra, la metodologia di MSCI ESG Research determina per ciascun investimento see considerate "sostenibile" ai sensi del Regolamento SFDR.
+In aggiunta la SGR ha introdotto un ulteriore criteria per la determinazione degli investimenti ritenuti sostenibili secondo la metodologia di MSCI ESG Research, introducendo l'ulteriore requisito del conseguimento di un rating minima sul pilastro di Governance pari o superiore a "BB" (tenendo canto della seguente scala CCC, B, BB, BBB, A, AA, AAA). Tuttavia, la SGR si riserva ii diritto di non considerare ii punteggio del Pilastro G di MSCI ESG Research sulla base di un'analisi interna condotta dal Comitato lnvestimenti, con l'eventuale supporto dei rating del Pilastro G diffusi da fornitori di dati ESG, diversi da MSCI ESG, ivi compresi le case di investimento sell-side.
+lnoltre, le imprese contrassegnate da gravi controversie (valutazione del coinvolgimento diretto di una societa negli effetti negativi piu gravi, che non sono ancora stati mitigati con la soddisfazione di tutti gli stakeholder coinvolti), sono escluse dall'universo di investimento. Nel caso in cui MSCI ESG Research generi una segnalazione di gravi controversie di una societa/emittente detenuto in portafoglio, la SGR si riserva ii diritto di liquidare la posizione entro tre mesi dalla data in cui e viene resa nota detta segnalazione, nell'interesse dell'investitore e mitigando i potenziali effetti negativi sul prezzo dello strumento.
+
+
+Oltre ai criteri sopra esposti, la SGR considera sostenibili anche i seguenti investimenti:
+
+• Green bond: come definito dall'lnternational Capital Market Association (ICMA), le obbligazioni verdi sono qualsiasi tipo di strumento obbligazionario i cui proventi sono utilizzati esclusivamente per finanziare o rifinanziare, in toto o in parte, progetti ambientali nuovi e/o preesistenti e che, in ogni caso, sono allineati ai quattro principi dei green bond: utilizzo dei proventi, processo di valutazione e selezione del progetto, gestione dei proventi e attivita di rendicontazione. I green bond sono considerati al 100% in linea con gli obiettivi ambientali, secondo la definizione dell'SFDR.
+
+
+• Social bond: come definite dall'ICMA, le obbligazioni sociali sono qualsiasi tipo di strumento obbligazionario i cui proventi, o ii cui importo equivalente, saranno applicati esclusivamente al finanziamento o al rifinanziamento in toto o in parte di progetti sociali idonei nuovi e/o esistenti e che siano allineati ai quattro elementi fondamentali dei principi dei social bond: utilizzo dei proventi, processo di valutazione e selezione del progetto, gestione dei proventi e attivita di rendicontazione. I sociali bond sono considerati al 100% in linea con gli obiettivi sociali, secondo la definizione dell'SFDR.
+• Sustainability bond: come definite dall'ICMA, le obbligazioni di sostenibilita sono qualsiasi tipo di strumento obbligazionario i cui proventi, o ii cui importo equivalente, saranno applicati esclusivamente al finanziamento o al rifinanziamento di una combinazione di progetti sia verdi che sociali. La percentuale di allineamento dei sustainability bond con gli obiettivi ambientali e sociali (come definiti dall'SFDR) dipende dall'allocazione dei proventi tra i progetti ambientali e sociali finanziati da ciascuna obbligazione, come riportato nel prospetto delle obbligazioni.
+• Sustainability-linked bond: come definite dall'ICMA, le obbligazioni legate alla sostenibilita sono qualsiasi tipo di strumento obbligazionario ii cui profile finanziario e/o strutturale puo variare in base al fatto che l'emittente raggiunga o meno gli obiettivi di sostenibilita/ESG predefiniti. In tal senso, gli emittenti si impegnano pertanto esplicitamente (anche nella documentazione obbligazionaria) a futuri miglioramenti dei risultati di sostenibilita entro una tempistica prestabilita. La percentuale di allineamento dei sustainability-linked bond con gli obiettivi ambientali e sociali (come definiti dall'SFDR) dipende dall'allocazione dei proventi tra i progetti ambientali e sociali finanziati da ciascuna obbligazione, come riportato nel prospetto delle obbligazioni.
+• Obbligazioni SDG: sono simili alle obbligazioni di sostenibilita in quanta possono fare riferimento a obiettivi sia ambientali che sociali, ma sono maggiormente legate al raggiungimento degli SDG delle Nazioni Unite. La percentuale di allineamento delle obbligazioni SDG con gli obiettivi ambientali e sociali (come definiti dall'SFDR) dipende dall'allocazione dei proventi tra i progetti ambientali e sociali finanziati da ciascuna obbligazione, come riportato nel prospetto delle obbligazioni.
+• Gli investimenti nei fondi ex Art. 9 SFDR sono considerati sostenibili al 100% ai sensi dell'Art. 2(17) SFDR. Un fondo ex Art. 9 SFDR puo essere considerate al 100% in linea con gli obiettivi ambientali, al 100% in linea con gli obiettivi sociali o in una combinazione variabile di obiettivi ambientali e sociali, a seconda della strategia d'investimento del
+fondo. La determinazione della percentuale di allineamento di un fondo ex Articolo 9 agli obiettivi ambientali e/o sociali e ad esclusiva discrezione della SGR.
+
+
+• Gli investimenti nei fondi ex art. 8 dell'SFDR sono considerati sostenibili ai sensi dell'art.
+2 punto 17 dell'SFDR solo per la quota corrispondente alla percentuale minima di investimenti sostenibili dichiarata dal fondo. La quota di investimenti sostenibili di un fondo ex Art. 8 SFDR puo essere considerata al 100% in linea con gli obiettivi ambientali, al 100% in linea con gli obiettivi sociali o in una combinazione variabile di obiettivi ambientali e sociali, a seconda della strategia d'investimento del fondo. La determinazione della percentuale di allineamento di un fondo ex Articolo 8 agli obiettivi ambientali e/o sociali e a esclusiva discrezione della SGR.
+
+
+7.4 Elementi vincolanti
+
+I seguenti criteri si applicano ai prodotti d'investimento ex Art. 8 SFDR (tutti i rating si basano sulla seguente scala, in ordine crescente: CCC, B, BB, BBB, A, AA, AAA):
+• ii rating ESG media a livello di prodotto d'investimento deve essere pari o superiore a "BBB"15;
+• ii rating del pilastro A (Ambientale) o S (Sociale) per ciascun investimento deve essere pari o superiore a "BB," affinche sia considerato in linea con le caratteristiche ambientali e/o sociali;
+• per i prodotti d'investimento che dichiarano un impegno minima a realizzare investimenti sostenibili ex Art.2 (17) SFDR, la conformita all'impegno minima.
+• Criteri di esclusione: oltre ai criteri della lista di esclusione applicabili a tutti i prodotti d'investimento gestiti direttamente della SGR o dai gestori delegati appartenenti al Gruppo Azimut specificati nel paragrafo 6.1 della presente Policy, per i prodotti d'investimento ex Art. 8 dell'SFDR si applicano i seguenti limiti di investimento:
+o non e consentito investire in fondi con rating ESG inferiore a "BB" calcolato secondo la metodologia di MSCI ESG Research;
+o ii rating relativo al Pilastro G (governance) per ciascun investimento e pari o superiore a "BB"; In caso di investimento in aItri fondi, ii relativo rating del Pilastro Ge quello calcolato a livello del fondo target;
+o Gli investimenti in imprese che beneficiano degli investimenti contrassegnati da controversie gravi (come da metodologia MSCI) che non sono ancora stati
+
+
+
+
+15 I rating sono forniti dall'infoprovider MSCI ESG
+
+
+mitigati a soddisfazione di tutti gli stakeholder coinvolti sono esclusi dall'ambito di investimento.
+
+
+7.5 Tempistiche di rientro in caso di sforamenti dei limiti di investimento di natura ESG
+
+In caso di sforamenti passivi dei limiti di investimento normati dalla presente Policy (causati ad
+esempio dal downgrade del rating del pillar governance o dalla successiva segnalazione di una "red flag" da parte di un emittente), ivi compresa la lista di esclusione e gli elementi vincolanti, la SGR si riserva ii diritto di liquidare la posizione entro tre mesi, dalla data in cui e viene resa nota detta segnalazione, nell'interesse dell'investitore e mitigando i potenziali effetti negativi sul prezzo dello strumento.
+
+
+8. Azionariato attivo
+
+8.1 lntroduzione
+
+La SGR riconosce che una solida governance societaria e fondamentale per migliorare ii valore
+dei propri investimenti azionari, pertanto Al esercita i propri diritti di voto nel migliore interesse dei clienti allo scopo di ottimizzare e promuovere la creazione di valore a lungo termine nelle imprese che beneficiano degli investimenti, oltre che a monitorare e interagire con le imprese per migliorare i propri standard ESG e implementare prassi commerciali sostenibili.
+8.2 Mitigazione dei principali effetti negativi sulla sostenibilita (PAI)
+
+Attraverso l'esercizio dei diritti di voto nelle assemblee degli azionisti annuali e straordinarie, gli azionisti hanno l'opportunita di plasmare ii percorso di sviluppo delle imprese e di influenzare la performance degli amministratori esecutivi.
+II voto espresso alle assemblee in merito a delibere in conformita con le linee guida uniformate ai Principi per gli investimenti responsabili consente alla SGR di incoraggiare le imprese che beneficiano degli investimenti a migliorare i propri standard ESG e ad attuare prassi aziendali sostenibili, contribuendo in ta/ modo a ridurre al minimo i principali effetti negativi de/le imprese sul fronte della sostenibilita.
+L'esercizio dei diritti di voto consente quindi alla SGR di contribuire efficacemente alla riduzione dei PAI.
+Si rimanda alla Politica di lmpegno della SGR per ulteriori dettagli.
+
+
+9. Fondi Alternativi Chiusi
+
+
+Vista la specificita dei Fondi di lnvestimento Alternativi Chiusi, dovuta alla natura illiquida degli investimenti sottostanti, essi vengono trattati con criteri differenti.
+A tal fine la SGR sta predisponendo metodologie di rating ESG atte a consentire la considerazione dei PAI anche per tale tipologia di prodotti.
+Con riferimento agli investimenti diretti (i.e. in strumenti obbligazionari), si applicano i criteri di esclusione previsti dalla presente Policy (Cfr. in particolare § 6.1).
+Per quanta riguarda invece gli investimenti in titoli rivenienti da operazioni di cartolarizzazione e investimenti in quote/azioni di OICR alternativi, la SGR ritiene non applicabili i criteri di esclusione definiti dalla presente Policy.
+lnfine, nel caso in cui ii FIA chiuso o una porzione di esso venga affidata in delega di gestione ad un terzo, per quanto riguarda gli investimenti in quote/azioni di OICR alternativi di tipo chiuso e quote/azioni di OICR di tipo aperto, ii delegato alla gestione per tali investimenti, applica i criteri ESG definiti dalla propria Policy ESG.
+Si rimanda al processo di investimento nell'ambito dei servizi di Gestione Collettiva del Risparmio di tipologia FIA chiusi per ulteriori dettagli.
+
+
+10. Vigilanza sui gestori delegati agli investimenti
+
+Qualora deleghi la funzione di gestione degli investimenti, la SGR:
+
+• per ii tramite della Direzione lnvestimenti, esegue la dovuta diligenza iniziale e su base continuativa dei gestori degli investimenti delegati;
+• per ii tramite della Funzione risk management, monitora l'attivita dei gestori degli investimenti delegati attraverso KPI {Key Performance Indicators, indicatori chiave di performance) mensili.
+
+
+10.1 Dovuta diligenza
+
+La dovuta diligenza esercitata dalla SGR sui gestori degli investimenti delegati dal punto di vista ESG puo ricomprendere i seguenti elementi:
+• analisi della Policy ESG, se del caso;
+
+• analisi de/la Politica di impegno, se del caso;
+
+• analisi de/la Policy per l'esercizio dei diritti di voto, se del caso.
+
+
+Ove ritenuto opportune, la SGR interagisce con i gestori degli investirnenti delegati al fine di ottenere ulteriori informazioni o chiarimenti.
+
+
+10.2 Monitoraggio
+
+La SGR vigila sull'attuazione de/la Politica ESG, della Politica di impegno e/o della Politica sui diritti di voto di ciascun Gestore degli investimenti delegato, tra l'altro, attraverso una revisione periodica delle:
+
+
+• relazioni prodotte dal gestore delegate, tra cui le relazioni relative agli indicatori chiave di performance (KPI)
+
+
+11. Trasparenza
+
+
+La SGR, in linea anche con quanta previsto dalla SFDR, prevede le seguenti informative nei confronti della clientela:
+• lnformativa precontrattuale (Allegato II RTS) per i prodotti ex art. 8 SFDR istituiti dalla SGR
+
+• lnformativa periodica (ex-post) prodotti ex Art. 8 SFDR (Allegato IV RTS) istituiti dalla SGR
+
+• lnformativa periodica riguardante i PAI a livello di SGR (Allegato I RTS)
+
+• Sezione del sito Web dedicata alla sostenibilita
+
+• Pubblicazione sul sito Web della presente Policy ESG
+
+
+ALLEGATO 1- Strategie di integrazione dei fattori di sostenibilita
+
+
+
+STRATEGIE DI INTEGRAZIONE DEi FATTORIESGprodotti ex art 6prodotti
+exart6prodotti ex artBprodotti ex art 8servizi di consulenza baseservizi di consulenza evolutaservizi di consulenza evoluta in
+0/CR  FIA CHIUSIUCITS,
+FP, FIA APERTIGPUCITS,
+FP, FIA APERTIGPlista di esclusioneXXXXXXproxy votlngXXmonitoraggio rischio
+di sostenibilitaXXXXXrispetto % minima di portafoglio investita In asset che promuovono
+caratteristiche E/SXXrispetto prassi di
+buona governanceXXrispetto llmiti minimi di rating ESG per singolo emittente
+e/o fondiXXXXrispetto rating medio
+minimo ESG a livello di portafolgioXXrispetto % minima di investimenti sostenibili ex ART 2
+(17} SFDRXXconsiderazione PAI a
+liveilo di portafolgioXX
+
+ALLEGATO 2- Metodo/ogie per /-'integrazione dei fattori di sostenibilita nel processo di investimento
+
+lntroduzione
+
+
+II processo di integrazione ESG si basa sui prodotti e servizi offerti da MSCI ESG Research, che fornisce ricerche approfondite, rating e analisi sull'approccio e sulle prassi di migliaia di societa di tutto ii mondo in relazione a tematiche ambientali, sociali e di governance. MSCI ESG Research fa parte di MSCI, uno dei principali fornitori di indici e analisi basati sulla ricerca.
+
+Ulteriori informazioni sono disponibili all'indirizzo https://www.msci.com/esg-ratings.
+
+
+Tramite l'analisi e i rating di MSCI, la SGR e in grado di monitorare costantemente, a livello di singola posizione ea livello di Prodotto d'investimento complessivo, l'esposizione e ii livello di
+rischio ESG di un Prodotto d'investimento.
+
+
+
+
+Metodologia di Rating ESG di MSCI
+
+
+Emittenti societarbo
+
+
+L'obiettivo della metodologia di MSCI ESG Research e valutare quali sono i rischi e le opportunita ESG piu significativi per un'impresa ed ii relativo settore di appartenenza, l'entita dell'esposizione
+dell'impresa a tali rischi e/o opportunita ritenuti cruciali (i.e. "Key Issues", l'efficacia dell'impresa nella gestione dei rischi e/o delle opportunita chiave, nonche ii quadro generale di un'impresa e come si rapporta con i propri concorrenti di settore a livello globale.
+
+20 Per ulteriori informazioni si rimanda al link https://www.msci.com/documents/1296102/21901542/ESG-Ratings-Methodology-Exec­ Summary.pdf
+
+
+
+
+I rischi e le opportunita ambientali, sociali e di governance sono determinati da tendenze su larga scala (ad es. cambiamenti climatici, scarsita delle risorse, cambiamenti demografici), nonche dalla natura delle operazioni di un'impresa. Le societa operanti nello stesso settore di norma si trovano ad affrontare gli stessi rischi e opportunita principali, sebbene l'esposizione individuale possa variare. II modello di Rating ESG di MSCI si concentra unicamente su questioni che sono ritenute rilevanti per ciascun settore.
+
+Vengono valutati 10 temi principali e 35 Temi Chiave ESG ("Key Issues"). Ciascun Tema Chiave ambientale e sociale in genere rappresenta una percentuale compresa tra ii 5% e ii 30% del Rating ESG totale. Le ponderazioni tengono conto del contributo del settore, rispetto a tutti gli aItri settori, all'impatto negativo o positivo sull'ambiente o sulla societa. II peso relativo al pilastro di Governance e limitato a un valore minima del 33%.
+
+Per meglio comprendere se una societa sta gestendo adeguatamente un rischio ESG chiave e
+essenziale comprendere sia le strategie di gestione che ha adottato e quanta e esposta al rischio.
+II modello di Rating ESG di MSCI misura entrambi i seguenti aspetti: esposizione al rischio e gestione del rischio. Per ottenere un buon punteggio rispetto a un Tema Chiave, la gestione dell'emittente deve essere commisurata al livello di esposizione: una societa con un'esposizione elevata deve avere anche una gestione molto solida, mentre una societa con un'esposizione limitata puo avere un approccio piu modesto.
+
+I Rating ESG di MSCI includono le controversie, che possono indicare problemi strutturali delle capacita di gestione del rischio di una societa. Nel modello di Rating ESG, un caso di controversia che a giudizio del provider indica problemi strutturali che potrebbero comportare rischi futuri
+sostanziali per la societa attiva una detrazione maggiore dal punteggio relativo al Tema Chiave rispetto a un caso di controversia che e considerate un importante indicatore della performance recente, ma non un chiaro segnale di un futuro rischio sostanziale.
+
+
+
+
+Gerarchia dei Temi chiave ESG di MSCI
+
+3 Pillars10 Themes35 ESG Key IssuesEnvironmentOlmate Chancecart>onEmisskln!.
+Product carbon FootpnntFloand,. Enwonmenul t,npact
+Oimate CNn,e VulnerabilityNatunl CapitalWater Stress
+8!ocliversity & und uselbw Material Sourd,.Pollution&
+WasteToxic Emissions & Waste
+hcbPlCMatltNI & WasteEl"tronk w,steEnvfronmentaf
+OpportunitiesOpportunities In 0111n TKh
+Opportunities in Green Bu•ldin&Opportunities in Renew,ble
+EllltfJYSocialHuman CapitalLabo!' Mmicement
+Health I: SafetyHum,n Capit,t Oevelopmeflt
+Supply Chain Ulbof' SUndMdsProduct UabilltyProduct Safety & Quafitv
+Chemical Safety
+Cons-..ne, flnanclll ProtectionPrivacy & Oat, SKuril>t
+Responsible Investment
+He..ith & Democnphic Rl$kStakehold"
+Opposltk)nControverst,I Sour
+Community RNtlonsSocial OpportunitiesAcceu to Communic,tions Access to fin,nceAcceu to Hearth Can!
+Opportunities 111 Nutrilion &
+HolthGovernanceCorporate
+GovernanceOwntfshlp & Control
+SoardPay
+Accountir,cCorporate
+Behavior8usi!'IHS Ethics
+Jax Transpa,ency
+
+
+
+Ogni societa riceve un punteggio corretto per ii settore di appartenenza (IAS, Industry Adjusted Score), definito dalla media ponderata dei punteggi dei Temi chiave ambientali e sociali e del punteggio del Pilastro di Governance, normalizzato in base agli intervalli di punteggio fissati in base ai valori dell'indice di riferimento nel gruppo dei peer di riferimento.
+
+L'Jndustry Adjusted Score corrisponde ad un rating compreso tra Best-in-Class (AAA) e Worst-in­ Class (CCC). Queste valutazioni delle performance societarie non sono assolute, ma sono esplicitamente concepite per essere applicate rispetto agli standard e alle performance dei concorrenti di un'impresa all'interno del settore di appartenenza.
+
+
+
+"Appearanceof overlap m the score ranges isdue to rounding Imprecisions. The 0-to·1O
+scale isdividedinto sevenequal parts, eachcorresponding toa letterrating.
+
+
+Emittenti governativh1
+
+
+I Rating ESG per i governi di MSCI riflettono ii modo in cui l'esposizione e la gestione ai/dei fattori di rischio ambientali, sociali e di governance possono influire sulla sostenibilita e la competitivita nel lungo termine delle rispettive economie.
+
+Nel misurare l'Esposizione al rischio ESG di un Paese, MSCI ESG Research tiene canto delle risorse (capitale naturale, capitale umano e risorse finanziarie) come prerequisiti per lo sviluppo e la performance di un Paese. Sano inclusi anche altri fattori "abilitanti", come la disponibilita di un efficace sistema di governo e giudiziario, la bassa vulnerabilita a eventi ed esternalita ambientali e un contesto economico favorevole. Tutto questo puo contribuire a consentire un utilizzo efficace delle risorse di un'economia. Nel misurare la Gestione del rischio ESG per un Paese ,si utilizzano i dati sulla performance in merito alle aree identificate nel presente paragrafo.
+
+
+Nell'ambito del pilastro "ambientale" viene condotta una ricerca per valutare la misura in cui la competitivita a lungo termine di un Paese sia influenzata dalla sua capacita di proteggere,
+
+
+21 Per ulteriori informazioni vedere:
+https://www.msci.com/documents/1296102/34424357/MSCl+ESG+Government+Ratings+Methodologv.pdf/9ef03c70-4cfb-618c-ble6-  0b3f708bd33c?t=1666194456756
+
+
+sfruttare e integrare le proprie risorse naturali e gestire le vulnerabilita e le esternalita ambientali.
+
+
+Nell'ambito del pilastro "sociale", viene eseguita una ricerca per valutare la misura in cui la competitivita a lungo termine di un Paese sia influenzata dalla sua capacita di sviluppare una ii proprio capitale umano anche con riferimento alla forza lavoro, nonche di creare un ambiente economico favorevole.
+
+II pilastro relative alla "governance" valuta in che misura la competitivita a lungo termine di un Paese sia influenzata dalla sua capacita istituzionale di sostenere la stabilita e ii funzionamento a lungo termine dei suoi sistemi finanziari, giudiziari e politici, nonche dalla capacita di affrontare i rischi ambientali e sociali. II pilastro "governance" ha una ponderazione piu elevata (50%) rispetto al pilastro ambientale e sociale, in quanta la governance ricomprende le modalita con le quali ii Paese influisce sulla gestione dei rischi ambientali, sociali e istituzionali.
+
+
+Rating ESG per i governi di MSCI
+
+MSCI ESG Research calcola ii Punteggio ESG per i governi per tutti i paesi e, successivamente, l'ultima fase consiste nella loro conversione in un rating in lettere. Nella prima fase del calcolo della soglia di rating complessiva, MSCI ESG Research calcola la deviazione media e standard dei Punteggi ESG per i governi dell'anno in corso. Viene quindi utilizzato ii seguente metodo per determinare le soglie per i rating Best-in-Class {AAA) e Worst-in-Class {CCC):
+
+
+Go ernmen! ESG Score (formula)	lt",•elAverage + 2 x sranc/srd dev,at/onThreshold for AAA ratingAve<ageMidpoint of BBBratingAve.rage- 2'x sttJnc/a,d deviationThreshold for CCC rating
+
+
+Altre soglie di rating (per AA, A, BBB, BB e B) vengono determinate dividendo la fascia tra i rating Best-in-Class (AM) e Worst-in-Class (CCC) in cinque fasce uguali, come mostrato nell'esempio seguente:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I A--ESG-5.68	
+.,_,,.,,....,.,.	,_ESGScon,:1.26
+
+
+
+
+
+Determinazione del punteggio ESG di un Comparto
+
+
+A livello di Prodotto d'investimento, i punteggi ESG di MSCI di ciascun emittente vengono attribuiti in base alla ponderazione dell'emittente nel portafoglio (esclusi liquidita, strumenti derivati e titoli ESG privi di rating).
+
+II punteggio ponderato cosl ottenuto viene rettificato per tenere conto della performance dei punteggi degli emittenti (rettifica negativa nel caso in cui gli emittenti mostrino un deterioramento del loro rating e rettifica positiva nel caso in cui gli emittenti mostrino un miglioramento del loro rating) e della presenza nel portafoglio di emittenti definiti "laggard" (ritardatari), ossia rientranti nella fascia di rating piu bassa (B o CCC) e pertanto generalmente esposti a un rischio reputazionale superiore.
+
+II punteggio ponderato rettificato viene poi convertito in un Rating ESG in base alla seguente tabella di conversione:
+
+
+
+
+Fund ESG Quah Score Fund ESG Ratm
+8.6'" -10.0AAA7.1- 8.6AA5.7- 7.1A4.3- 5.7BBB2.9-4.3BB1.4- 2.9B0.0-1.4CCC
+
+La presenza di sovrapposizione negli intervalli di punteggio e dovuta all'arrotondamento. Ogni possibile punteggio rientra nell'intervallo di un solo rating in lettere. Lascala da O a 10 e suddivisa in 7 parti uguali, ciascuna corrispondente a un rating in lettere.
+
+
+lntegrazione ESG e considerazione dei principali effetti negativi nel processo d'investimento
+
+
+L'integrazione ESG e la considerazione dei PAI (per i dettagli si rimanda al paragrafo 6.2.4) sono implementate su tutti i Prodotti d'investimento direttamente gestiti da Al, indipendentemente dalla loro classificazione ai sensi dell'SFDR (fondi ai sensi dell'Art. 6, Art. 8 o Art. 9 SFDR).
+
+Ciascun gestore di portafoglio monitora costantemente ii punteggio ESG del Prodotto o dei Prodotti d'investimento gestiti, sia a livello di singolo titolo che aggregato. Per ogni singolo investimento vengono presi in considerazione i punteggi ambientali, sociali e di governance (a livello aggregate, di pilastro e/o piu granulare), unitamente alle considerazioni sui PAI e ai tradizionali criteri di analisi e valutazione finanziaria.
+
+Cio significa che ogni gestore di portafoglio si assicura che i propri Prodotti d'investimento siano finanziariamente efficienti e quanta piu sostenibili possibile. Questa obiettivo viene conseguito mediante un'ottimizzazione realizzata principalmente non investendo in e/o riducendo le esposizioni a emittenti con i punteggi ESG piu bassi o i PAI piu elevati, sostituendoli con emittenti con punteggi ESG piu elevati e/o PAI piu bassi, idealmente "best in class", ossia societa leader nello sviluppo sostenibile.
+
+
+
+
+Per valutare piu accuratamente gli aspetti ESG e di sostenibilita dei propri investimenti, ii team di gestione del portafoglio pub fare affidamento sui dati ESG, di sostenibilita e di allineamento degli Obiettivi di sviluppo sostenibile {SDG) resi disponibili da altri fornitori diversi da MSCI ESG Research, in aggiunta alle analisi eseguite internamente dal team di Gestione del portafoglio.
+
+Vigilanza sulla Gestione del rischio
+
+
+La funzione di risk management ha implementato all'interno dei sistemi di investment compliance ex ante ed ex post per monitorare ii rispetto dei seguenti limiti:
+
+
+• elenco di esclusione {per i dettagli si rimanda al paragrafo 6.1);
+
+• limiti di investimento aggiuntivi applicabili ai prodotti d'investimento ai sensi dell'Art. 8 o Art. 9 dell'SFDR (per i dettagli si rimanda al paragrafo 7).
+
+lnoltre, a supporto della funzione di Gestione del portafoglio, del Cda e del CS, la funzione di risk management predispone della reportistica ad hoc i per monitorare:
+
+
+• ii valore corrente e l'evoluzione dei rating ESG (a livello aggregate ea livello di pilastro) per ciascun Prodotto d'investimento;
+• la conformita ex-post con i limiti ESG;
+
+• l'esposizione ai singoli fattori di rischio ESG;
+
+• la conformita ai limiti ESG prestabiliti; i valori PAI.
+
+
+
+
+
+
+
+
